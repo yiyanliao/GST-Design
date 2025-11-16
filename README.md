@@ -1,5 +1,7 @@
 # *De novo* design of GST using ESM3 - Biochemistry Lab
 
+![Workflow](https://github.com/yiyanliao/GST-Design/blob/main/images/workflow.png)
+
 ## Installations
 
 - Env for [ESM3](https://github.com/evolutionaryscale/esm):
