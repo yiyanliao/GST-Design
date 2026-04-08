@@ -1,0 +1,21 @@
+name: esmfold_5090
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - pandas
+  - pytest
+  - pip:
+      - --extra-index-url https://download.pytorch.org/whl/cu124
+      - torch
+      - torchvision
+      - torchaudio
+      - transformers
+      - accelerate
+      - biopython
+      - numpy
+      - scipy
+      - tqdm
